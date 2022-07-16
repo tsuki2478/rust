@@ -3,8 +3,6 @@
 cargo run
 
 
-# TCP监听（端口：8888）
-tcp client可以使用 《telnet》 进行交互
-
-# telnet:
-telnet localhost 8888  
+# 第四课作业
+截图在/img
+代码在rust_fourth/test
